@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "age": 18,
+      "branch": "CSE",
+      "year": 1,
+      "marks": 85
+    },
+    {
+      "id": 2,
+      "name": "Ananya Gupta",
+      "age": 18,
+      "branch": "CSE",
+      "year": 1,
+      "marks": 91
+    },
+    {
+      "id": 3,
+      "name": "Rohan Verma",
+      "age": 19,
+      "branch": "ECE",
+      "year": 1,
+      "marks": 78
+    },
+    {
+      "id": 4,
+      "name": "Priya Singh",
+      "age": 18,
+      "branch": "IT",
+      "year": 1,
+      "marks": 88
+    },
+    {
+      "id": 5,
+      "name": "Aditya Kumar",
+      "age": 19,
+      "branch": "CSE",
+      "year": 1,
+      "marks": 82
+    },
+    {
+      "id": 6,
+      "name": "Sneha Agarwal",
+      "age": 18,
+      "branch": "AIML",
+      "year": 1,
+      "marks": 94
+    },
+    {
+      "id": 7,
+      "name": "Kunal Mehta",
+      "age": 19,
+      "branch": "ECE",
+      "year": 1,
+      "marks": 76
+    },
+    {
+      "id": 8,
+      "name": "Ishita Jain",
+      "age": 18,
+      "branch": "IT",
+      "year": 1,
+      "marks": 89
+    },
+    {
+      "id": 9,
+      "name": "Rahul Yadav",
+      "age": 19,
+      "branch": "CSE",
+      "year": 1,
+      "marks": 80
+    },
+    {
+      "id": 10,
+      "name": "Mehak Bansal",
+      "age": 18,
+      "branch": "AIML",
+      "year": 1,
+      "marks": 93
+    }
+  ]
+}
